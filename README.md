@@ -1,2 +1,3 @@
 <h3>Link to open Website</h3>
-<a>https://quick-stay.onrender.com/listings</a>
+<a href="https://quick-stay.onrender.com/listings" target="_blank">QuickStay</a>
+
